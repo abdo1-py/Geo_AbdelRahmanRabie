@@ -1,5 +1,5 @@
 
-## Pictures of My Interestings
+## Pictures Of My Interestings
 ![](Github2.jpg)
 ![](Github%20image.jpg)
 
